@@ -1,0 +1,12 @@
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Controller\GraphQLController.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\DTO\Author.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\DTO\Tutorial.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Graphql\GraphQLResolve.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Graphql\Mutation.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Graphql\Query.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Graphql\TutorialResolver.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\GraphqlMysqlApplication.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Repo\AuthorRepository.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Repo\TutorialRepository.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Service\AuthorService.java
+C:\Spring_Graphql\Graphql_Mysql\src\main\java\com\example\graphql_mysql\Service\TutorialService.java

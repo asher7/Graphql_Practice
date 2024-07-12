@@ -1,0 +1,8 @@
+com\example\graphql_mysql\DTO\Tutorial.class
+com\example\graphql_mysql\Repo\TutorialRepository.class
+com\example\graphql_mysql\Repo\AuthorRepository.class
+com\example\graphql_mysql\GraphqlMysqlApplication.class
+com\example\graphql_mysql\Service\AuthorService.class
+com\example\graphql_mysql\Controller\GraphQLController.class
+com\example\graphql_mysql\DTO\Author.class
+com\example\graphql_mysql\Service\TutorialService.class

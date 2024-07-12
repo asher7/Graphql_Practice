@@ -1,0 +1,28 @@
+type Tutorial {
+    id: ID!
+    title: String!
+    description: String!
+    author: Author!
+}
+
+type Author {
+    id: ID!
+    name: String!
+    age: Int!
+}
+
+type Query {
+    findAllTutorials: [Tutorial!]!
+    findAllAuthors: [Author!]!
+}
+
+type Mutation {
+  createTutorial(title: String!, description: String!, authorId: ID!): Tutorial!
+    createAuthor(name: String!, age: Int!): Author!
+    deleteTutorial(id: ID!): Boolean!
+    updateTutorial(id: ID!, title: String, description: String): Tutorial!
+}
+
+type TutorialResolver {
+    getTutorialResolver: TutorialResolver!
+}
